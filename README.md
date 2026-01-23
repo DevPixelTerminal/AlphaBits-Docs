@@ -80,8 +80,8 @@ To achieve render speeds of ~60 seconds for 1.5 minutes of content:
 ### Hardware Recommendations
 * **GPU:** **NVIDIA RTX 5070** (Critical for NVENC encoding in OBS at high bitrates).
 * **CPU:** Core i9 / Ryzen 9 (16+ threads for parallel asset loading).
-* **RAM:** 32GB DDR5 (For caching uncompressed RGBA weather layers).
+* **RAM:** 32GB DDR5 (For caching uncompressed RGBA weather layers). 
 
 ---
 
-*BarrelDAO v34.2 — Broadcasting from the edge of the simulation.* 
+*BarrelDAO v34.2 — Broadcasting from the edge of the simulation.*  
