@@ -84,4 +84,4 @@ To achieve render speeds of ~60 seconds for 1.5 minutes of content:
 
 ---
 
-*BarrelDAO v34.2 — Broadcasting from the edge of the simulation.* 
+*BarrelDAO v34.2 — Broadcasting from the edge of the simulation.*  
