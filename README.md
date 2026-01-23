@@ -16,7 +16,7 @@ The v34.2 engine creates a dynamic viewing experience by rotating between two di
 * **Concept:** The Host (Hobo) stands by a burning barrel in a dynamic weather environment. VIP guests (Elon, Trump, Vitalik) visit him to debate philosophy, economics, and memes.
 * **Technology:**
     * **Dynamic Lighting:** The fire from the barrel casts real-time light reflections on character sprites.
-    * **Procedural Dialogue:** Generates 30-35 line scripts while maintaining character context and history.
+    * **Procedural Dialogue:** Generates 30-35 line scripts while maintaining character context and history. 
 
 ### 2. The Studio Mode (Breaking News)
 * **Concept:** The Host transitions to a makeshift news desk ("Barrel News").
