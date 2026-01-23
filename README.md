@@ -16,7 +16,7 @@ The v34.2 engine creates a dynamic viewing experience by rotating between two di
 * **Concept:** The Host (Hobo) stands by a burning barrel in a dynamic weather environment. VIP guests (Elon, Trump, Vitalik) visit him to debate philosophy, economics, and memes.
 * **Technology:**
     * **Dynamic Lighting:** The fire from the barrel casts real-time light reflections on character sprites.
-    * **Procedural Dialogue:** Generates 30-35 line scripts while maintaining character context and history.
+    * **Procedural Dialogue:** Generates 30-35 line scripts while maintaining character context and history. 
 
 ### 2. The Studio Mode (Breaking News)
 * **Concept:** The Host transitions to a makeshift news desk ("Barrel News").
@@ -69,7 +69,7 @@ The interface is designed according to professional broadcast standards.
 
 ## 🛠 Technical Specifications
 
-The project is optimized for high-end local workstations.
+The project is optimized for high-end local workstations. 
 
 ### Rendering Pipeline
 To achieve render speeds of ~60 seconds for 1.5 minutes of content:
@@ -80,8 +80,8 @@ To achieve render speeds of ~60 seconds for 1.5 minutes of content:
 ### Hardware Recommendations
 * **GPU:** **NVIDIA RTX 5070** (Critical for NVENC encoding in OBS at high bitrates).
 * **CPU:** Core i9 / Ryzen 9 (16+ threads for parallel asset loading).
-* **RAM:** 32GB DDR5 (For caching uncompressed RGBA weather layers).
+* **RAM:** 32GB DDR5 (For caching uncompressed RGBA weather layers). 
 
 ---
 
-*BarrelDAO v34.2 — Broadcasting from the edge of the simulation.*
+*BarrelDAO v34.2 — Broadcasting from the edge of the simulation.🔥*  
