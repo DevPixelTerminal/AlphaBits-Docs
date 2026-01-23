@@ -69,7 +69,7 @@ The interface is designed according to professional broadcast standards.
 
 ## 🛠 Technical Specifications
 
-The project is optimized for high-end local workstations.
+The project is optimized for high-end local workstations. 
 
 ### Rendering Pipeline
 To achieve render speeds of ~60 seconds for 1.5 minutes of content:
